@@ -1,0 +1,1 @@
+const e={key:"v-7a9c29d1",path:"/guide/1_menu_principal.html",title:"Men\xFA principal",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Opciones principales",slug:"opciones-principales",children:[]}],filePathRelative:"guide/1_menu_principal.md"};export{e as data};

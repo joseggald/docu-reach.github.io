@@ -1,0 +1,1 @@
+const e={key:"v-510ed0d4",path:"/changelog/",title:"Change Log",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"2.0.1 (2022-04-05)",slug:"_2-0-1-2022-04-05",children:[]},{level:2,title:"2.0.0 (2022-03-31)",slug:"_2-0-0-2022-03-31",children:[]}],filePathRelative:"changelog/README.md"};export{e as data};
